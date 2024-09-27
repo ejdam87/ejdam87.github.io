@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body
+{
+    background-color: #AFAFB2;
+    font-family: "Roboto";
+    font-size: 1.5vw;
+}
+
+a
+{
+    color: #17A2B8;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+h1
+{
+    font-size: 5vw;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 4vw;
+}
+
+h3
+{
+    font-size: 3vw;
+}
+
+input::placeholder
+{
+    color: #606060;
+}
+
+textarea::placeholder
+{
+    color: #606060;
+}
+
+header
+{
+    margin-bottom: 10vh;
+}
+
+footer
+{
+    margin-top: 10vh;
+}
+
+.footer-line
+{
+    border-width: 0.5vh;
+    border-color: black;
+}
+
+#checkbox-question
+{
+    text-align: center;
+}
+
+#profile-picture
+{
+    border-radius: 5vw;
+}
+
+.header-logo
+{
+    width: 10vh;
+}
+
+.footer-im
+{
+    transition: transform 0.3s ease;
+    width: 8vw;
+}
+
+.footer-im:hover
+{
+    transform: translateY(-1vh);
+}
+
+.input-field label
+{
+    color: #000000;
+}
+
+.checkbox-span
+{
+    color: #606060;
+}
+
+.justified-text
+{
+    text-align: justify;
+}
