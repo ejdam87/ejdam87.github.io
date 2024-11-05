@@ -1,2 +1,2 @@
-# cv
-ejdam87 2024
+# CV
+This is my personal CV webpage. It can be accesed by clicking [here](https://ejdam87.github.io/).
